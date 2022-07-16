@@ -1,18 +1,29 @@
-[![Abdullah's GitHub Banner](./assets/banner.png)]()
+<h1 align="center"> Hello, I'm Abdullah 👨‍💻 </h1>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]()
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)]()
+<h3 align="center">  Tech Enthusiast | Front-end Engineer </h3> <br>
 
-## 📝 Latest Blog Posts
+<p align="center"> 
+<a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"></a>
+<a href="https://twitter.com/nixrelish"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/nixrelish"></a>
+<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/devdezzies"></a>
+</p>
 
-<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Mobile development :computer:
+-  **Learning :** Full-Stack :zap:
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** coding and boxing are the things most I like :fire:
+-  **Pronouns :** He/Him/His :innocent:
 
-<!-- BLOG-POST-LIST:START -->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
 
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devdezzies" alt="devdezzies" /> </p>
 
-<br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## 💼 Skills
 
