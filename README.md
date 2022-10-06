@@ -15,7 +15,6 @@
 -  **Learning :** Full-Stack :zap:
 -  **Hobbies :** Books :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** coding and boxing are the things most I like :fire:
 -  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
