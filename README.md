@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Abdullah 👨‍💻 </h1>
 
-<h3 align="center">  Tech Enthusiast | Front-end Engineer </h3> <br>
+<h3 align="center">  Tech Enthusiast | Mobile Developer </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com//"><img alt="LinkedIn" src="./assets/Twijhgtter.png"></a>
