@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Abdullah 👨‍💻 </h1>
 
-<h3 align="center">  Tech Enthusiast | Mobile Developer </h3> <br>
+<h3 align="center">  Tech Enthusiast | Mobile Developer </h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
