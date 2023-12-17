@@ -2,12 +2,6 @@
 
 <h3 align="center">  Tech Enthusiast | Mobile Developer </h3> <br>
 
-<p align="center"> 
-<a href="https://www.linkedin.com//"><img alt="LinkedIn" src="./assets/Twijhgtter.png"></a>
-<a href="https://twitter.com/nixrelishK"><img alt="Twitter" src="./assets/Twijhgtter.png"></a>
-<a href="https://dev.to/devdezzies"><img alt="Dev Community" src="./assets/Twijhgtter.png"></a>
-</p>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤔 About
@@ -23,8 +17,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdezzies" alt="devdezzies" /> </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 ## 💼 Skills
 
 ![](./assets/html.png)
