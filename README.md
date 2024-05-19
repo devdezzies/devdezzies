@@ -2,7 +2,6 @@
 
 <h3 align="center">  Tech Enthusiast | Mobile Developer </h3>
 I'm an undergraduate computer science student in Indonesia who's currently focusing on mobile development and working on a project at Xplora. 
-I build apps to help people's lives easier and fun.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
