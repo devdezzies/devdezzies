@@ -13,6 +13,6 @@ Frontend Developer and Team Director [WorthEveryPenny](https://github.com/worthe
 - 💬 `ping` me about **mobile**, **design**, **flutter**, **software-development**, **design thinking**, **books**, **music**, **movies**
 
 Current Projects: 
-- Later - A platform for people to meet with their stories
+- Later, A platform for people to meet with their stories
 - WorthEveryPenny, a finance app made for students to manage their budget
-- AI vision for parsing informations from image, made mainly for bill payments
+- AI vision for parsing information from image, optimized for bill payments
