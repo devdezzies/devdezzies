@@ -3,7 +3,7 @@
 #### A CompSci Student by day ☼ and a Full-Stack Mobile Developer by night ☾
 
 Full-Stack Developer at [Xplora](https://github.com/xplora);<br>
-Frontend Developer and Team Director [WorthEveryPenny](https://github.com/wortheverypenny);<br>
+Frontend Developer and Project Director [WorthEveryPenny](https://github.com/wortheverypenny);<br>
 
 - ⚙️ I use daily: `.dart`, `.js`, `.py`, `.cpp`, `.go`
 - 🌍 I'm mostly active as a CompSci student at Telkom University and a Mobile Developer
