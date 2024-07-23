@@ -8,6 +8,6 @@ Frontend Developer and Project Director [WorthEveryPenny](https://github.com/wor
 - ⚙️ I use daily: `.dart`, `.js`, `.py`, `.cpp`, `.go`
 - 🌍 I'm mostly active as a CompSci student at Telkom University and a Mobile Developer
 - 🔧 Developing: @WorthEveryPenny @Xplora
-- 🚀 Project Showcase: [abdullahspace](https://abdullahspace.netlify.app/)
+- 🚀 Project Showcase: [d-ev]([https://abdullahspace.netlify.app/](https://d-ev.netlify.app/project))
 - 📖 Favorite Books: [Goodreads](https://www.goodreads.com/user/show/150964873-abdullah)
 - 💬 `ping` me about **mobile**, **design**, **flutter**, **software-development**, **design thinking**, **books**, **music**, **movies**
