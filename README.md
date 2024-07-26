@@ -10,4 +10,4 @@ Frontend Developer and Project Director [WorthEveryPenny](https://github.com/wor
 - 🔧 Developing: @WorthEveryPenny @Xplora
 - 🚀 Project Showcase: [d-ev](https://d-ev.netlify.app/project)
 - 📖 Favorite Books: [Goodreads](https://www.goodreads.com/user/show/150964873-abdullah)
-- 💬 `ping` me about **mobile-design**, **flutter**, **software-development**, **design thinking**, *Machine Learing*, **books**, **music**, **movies**
+- 💬 `ping` me about **mobile-design**, **flutter**, **software-development**, **design thinking**, **Machine Learing**, **books**, **music**, **movies**
