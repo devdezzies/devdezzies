@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### An informatics student by day ☼ and mobile developer by night ☾
+#### Currently majoring Computer Science
 
 I'm Abdullah, a developer focused on Intelligent Mobile Applications. I create seamless integrations between machine learning models and mobile applications. I mostly work with Dart ecosystem for mobile development and PyTorch for deep learning. I aim to build innovative solutions that enhance everyday life.
 
