@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-#### Currently majoring Computer Science
+#### Currently majoring in Computer Science
 
-I'm Abdullah, a developer focused on Intelligent Mobile Applications. I create seamless integrations between machine learning models and mobile applications. I mostly work with Dart ecosystem for mobile development and PyTorch for deep learning. I aim to build innovative solutions that enhance everyday life.
-
+My name is Abdullah. I build **mobile apps** to solve problems.
+- 📱 Full-stack mobile development: **Flutter**, **BLoC/Cubit**, **Dio**, **Hive**, **PostgreSQL**, **NodeJS**
+- 🧠 ML Engineering and Data Science: **PyTorch**, **Scikit-learn**, **Matplotlib**, **Pandas**, **Numpy**, **Torchmetrics**
 - ⚙️ I use daily: `.py`, `.dart`, `.cpp`, `.ipynb`
-- 🌍 I'm mostly active as a informatics undergraduate student at Telkom University
+- 🌍 I'm mostly active as an informatics undergraduate student at Telkom University
 - 🔧 Developing: @WorthEveryPenny @Xplora
-- 🚀 Project Showcase: [d-ev](https://d-ev.netlify.app/project)
+- 🚀 Projects: [d-ev](https://d-ev.netlify.app/project)
 - 📖 Favorite Books: [Goodreads](https://www.goodreads.com/user/show/150964873-abdullah)
-- 💬 `ping` me about **software-development**, **design thinking**, **ai/ml**, **books**, **music**, **movies**
