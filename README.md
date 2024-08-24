@@ -1,6 +1,6 @@
 #### Currently majoring in Computer Science
 
-My name is Abdullah. I build **mobile apps** to solve problems.
+My name is Abdullah. I build **mobile apps** and I like to train large datasets on neural nets.
 - 📱 Full-stack mobile development: **Flutter**, **BLoC/Cubit**, **Dio**, **Hive**, **PostgreSQL**, **NodeJS**
 - 🧠 ML Engineering and Data Science: **PyTorch**, **Scikit-learn**, **Matplotlib**, **Pandas**, **Numpy**, **Torchmetrics**
 - ⚙️ I use daily: `.py`, `.dart`, `.cpp`, `.ipynb`
