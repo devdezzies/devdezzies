@@ -1,5 +1,3 @@
-### Hello there 👋
-
 #### Currently majoring in Computer Science
 
 My name is Abdullah. I build **mobile apps** to solve problems.
