@@ -4,7 +4,7 @@ I'm a sophomore majoring in Computer Science, I'm passionate about building inno
 ### Technologies I Use and Current Project(s)
 - 📱 Mobile App Development : Flutter for cross-platform development, BLoC/Cubit for state management, Dio for network requests, Hive for local data storage, and PostgreSQL for database interactions.
 - 🧠 ML Engineering & Data Science : PyTorch for building neural networks, Scikit-learn for machine learning algorithms, Matplotlib for data visualization, Pandas and Numpy for data manipulation, and Torchmetrics for evaluating model performance.
-- ⚙️ Code I Write: `.py`, `.dart`, `.cpp`, `.ipynb`
+- ⚙️ Code I Write: `.py`, `.dart`, `.cpp`, `.js`
 - 🔧 Currently Developing: @WorthEveryPenny
 - 🚀 Projects: [d-ev](https://d-ev.netlify.app/project)
 ### More About Me
