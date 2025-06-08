@@ -20,7 +20,6 @@
 |--------|-------------|
 | [foodmini-vit](https://github.com/devdezzies/foodmini-vit) | 🍣🍕🥩 Food image classifier with ViT (Vision Transformer) |
 | [freshvision](https://github.com/devdezzies/freshvision) | 🍌🍎 EfficientNet-based fruit freshness detector |
-| [day-news](https://github.com/devdezzies/day-news) | 🗞️ Minimalist Flutter news app using BLoC |
 | [linear-equation-solver](https://github.com/devdezzies/linear-equation-solver) | 📐 C++ solver for linear systems (Gauss-Jordan) |
 | [deep-learning-with-pytorch](https://github.com/devdezzies/deep-learning-with-pytorch) | 🧠 A learning repo for PyTorch ML tutorials |
 | [moviemax](https://github.com/devdezzies/moviemax) | 🎬 Movie app with Flutter + TMDB API |
