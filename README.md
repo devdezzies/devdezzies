@@ -1,7 +1,7 @@
 ### Hey there, I’m Abdullah 👋
 
-🎓 CompSci student • 🛠️ Software Engineer  
-📱 Building mobile apps & 🤖 experimenting with GenAI  
+🎓 CompSci student • Software Engineer  
+📱 Building mobile apps & experimenting with GenAI  
 🏗️ Making the simple things simple & the hard things possible  
 📍 Indonesia
 
