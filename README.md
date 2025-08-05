@@ -18,8 +18,6 @@ user@dev-space:~$ ls projects/
 ├── 📁 relearn-dev/          # GenAI for STEM education
 ├── 📁 minigen/              # Lightweight Python agent library
 └── 📁 more-projects/        # Check d-ev.space for details
-
-user@dev-space:~$ cat current_project.md
 ```
 
 ```bash
