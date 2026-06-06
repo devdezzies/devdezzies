@@ -9,4 +9,6 @@ currently interested in backend systems, agentic systems, and web development
 ⚙️ tech: React, Next.js, Tailwind, PostgreSQL, Docker, Bun
 
 ---
-check out my new project -> https://relearn.site/
+check out my new projects: 
+- https://relearn.site/
+- https://tomorrow.li/
